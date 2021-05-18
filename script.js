@@ -29,10 +29,6 @@ jQuery(document).ready(function ($) {
 
             }
         });
-
-
-        $('.Two').hide();
-        $('.ONE').show();
     });
 
     $('.ONE').click(function () {
